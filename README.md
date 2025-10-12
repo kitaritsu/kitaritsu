@@ -1,4 +1,7 @@
 ## Hi there 👋
+<!--START_SECTION:SHOW_TOTAL_CODE_TIME-->
+<!--END_SECTION:SHOW_TOTAL_CODE_TIME-->
+
 
 <!--
 **kitaritsu/kitaritsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
