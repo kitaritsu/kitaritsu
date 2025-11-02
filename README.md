@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,16 +30,20 @@ Sunday                   23 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 19 mins       █████████████████████████   99.78 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+S7Socket                 5 hrs 19 mins       █████████████████████████   99.81 % 
+GAME                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +55,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 01/11/2025 18:45:07 UTC
+ Last Updated on 02/11/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 
