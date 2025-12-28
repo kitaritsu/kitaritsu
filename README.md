@@ -30,17 +30,16 @@ Sunday                   23 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 46 mins        █████████████████████████   99.80 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Pati                     1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +51,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 27/12/2025 18:51:19 UTC
+ Last Updated on 28/12/2025 18:52:25 UTC
 <!--END_SECTION:waka-->
 
 
