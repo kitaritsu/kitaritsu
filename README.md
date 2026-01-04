@@ -1,4 +1,4 @@
-## Ritsu Github page
+## お！
 ```text
 Right now I am making 3D game inspired mainly by LIES OF P and NIER: REPLICANT/AUTOMATA.
 It will be for MacOs (Intel for sure, with M chips future will tell) and Windows.
