@@ -1,5 +1,5 @@
 ## Heyo 👋
-Right now I am making 3D game inspired mainly by LIES OF P, NIER: REPLICANT/AUTOMATA.
+Right now I am making 3D game inspired mainly by LIES OF P and NIER: REPLICANT/AUTOMATA.
 It will be for MacOs (Intel for sure, with M chips future will tell) and Windows.
 In this year I will try to be much more consistent.
 
