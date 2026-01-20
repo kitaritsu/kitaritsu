@@ -24,15 +24,13 @@ In this year I will try to be much more consistent.
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 28 mins        █████████████████████████   99.52 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -45,6 +43,6 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 19/01/2026 18:56:57 UTC
+ Last Updated on 20/01/2026 19:47:06 UTC
 <!--END_SECTION:waka-->
 
