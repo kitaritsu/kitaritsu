@@ -24,13 +24,14 @@ In this year I will try to be much more consistent.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      12 mins             ███████████████████████░░   91.54 % 
+INI                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -43,6 +44,6 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 30/01/2026 19:08:40 UTC
+ Last Updated on 31/01/2026 18:57:03 UTC
 <!--END_SECTION:waka-->
 
