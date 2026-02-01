@@ -6,8 +6,6 @@ In this year I will try to be much more consistent.
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -44,6 +42,6 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 31/01/2026 18:57:03 UTC
+ Last Updated on 01/02/2026 19:01:29 UTC
 <!--END_SECTION:waka-->
 
