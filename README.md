@@ -24,13 +24,13 @@ In this year I will try to be much more consistent.
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -43,6 +43,6 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 18/02/2026 19:29:32 UTC
+ Last Updated on 19/02/2026 19:24:29 UTC
 <!--END_SECTION:waka-->
 
