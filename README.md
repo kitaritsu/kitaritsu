@@ -6,7 +6,7 @@ In this year I will try to be much more consistent.
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -24,16 +24,16 @@ In this year I will try to be much more consistent.
 
 ```text
 💬 Programming Languages: 
-C++                      8 hrs 45 mins       █████████████████████████   99.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C++                      7 hrs 27 mins       █████████████████████████   99.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -46,6 +46,6 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 12/03/2026 19:25:16 UTC
+ Last Updated on 13/03/2026 19:09:38 UTC
 <!--END_SECTION:waka-->
 
